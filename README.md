@@ -1,33 +1,29 @@
-<p align="center">
-<img src="https://i.ibb.co/KsMxC5P/thumb.jpg" alt="YUKI BOT" width="500"/>
-
-
 </p>
 <p align="center">
-<a href="#"><img title="YUKI BOT MULTI DEVICE" src="https://img.shields.io/badge/YUKI BOT MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="BLACKHAT BOT MULTI DEVICE" src="https://img.shields.io/badge/BLACKHAT BOT MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/saipulanuar/v20-Md"><img title="Author" src="https://img.shields.io/badge/Author-KINGOFBEAR-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/koleksibot/BLACKHATBOT-Md"><img title="Author" src="https://img.shields.io/badge/Author-Tahaluindo-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/"><img title="Followers" src="https://img.shields.io/github/followers/saipulanuar?color=blue&style=flat-square"></a>
-<a href="https://github.com/"><img title="Stars" src="https://img.shields.io/github/stars/saipulanuar/v20-Md?color=red&style=flat-square"></a>
+<a href="https://github.com/"><img title="Followers" src="https://img.shields.io/github/followers/tahaluindo?color=blue&style=flat-square"></a>
+<a href="https://github.com/"><img title="Stars" src="https://img.shields.io/github/stars/koleksibot/BLACKHATBOT-Md?color=red&style=flat-square"></a>
 <a href="https://github.com//network/members"><img title="Forks" src="https://img.shields.io/github/forks/saipulanuar/v20-Md?color=red&style=flat-square"></a>
 </P>
 <p align="center">
-  <a href="https://github.com/saipulanuar/v20-Md#requirements">Requirements</a> •
-  <a href="https://github.com/saipulanuar/v19-Md#instalasi">Installation</a> •
-  <a href="https://github.com/saipulanuar/v20-Md#thanks-to">Thanks to</a> •
-  <a href="https://github.com/saipulanuar/v20-Md#Official-Group"> Official Group Bot</a> •
-  <a href="https://github.com/saipulanuar/v20-Md#donate">Donate</a>
+  <a href="https://github.com/koleksibot/BLACKHATBOT-Md#requirements">Requirements</a> •
+  <a href="https://github.com/koleksibot/BLACKHATBOT-Md#instalasi">Installation</a> •
+  <a href="https://github.com/koleksibot/BLACKHATBOT-Md#thanks-to">Thanks to</a> •
+  <a href="https://github.com/koleksibot/BLACKHATBOT-Md#Official-Group"> Official Group Bot</a> •
+  <a href="https://github.com/koleksibot/BLACKHATBOT-Md#donate">Donate</a>
 </p>
 </div>
 ---
 
-# YUKI BOT Whatsapp MD
-## For Users Termux Install Module [here](https://github.com/Ilhamskhyzi/node_modules)
+# KOLEKSIBOT Whatsapp MD
+## For Users Termux Install Module [here](https://github.com/koleksibot)
 ## Information
-> YUKI BOT whatsapp using a Baileys library.
+> BLACKHATBOT whatsapp using a Baileys library.
 > Jika kamu menemukan semacam bug, harap untuk dimaklumi sementara
 >
 > • NOTE: Pastikan Jaringan kalian lancar dan device kalian bagus:v, 
@@ -36,13 +32,12 @@
 
 <h3 align="center">Made by :</h3>
 <p align="center">
-  <a href="https://github.com/saipulanuar"><img src="https://github.com/saipulanuar.png?size=128" height="128" width="128" /></a>
+  <a href="https://github.com/koleksibot"><img src="https://github.com/koleksibot.png?size=128" height="128" width="128" /></a>
   <a href="https://github.com/nurutomo"><img src="https://github.com/nurutomo.png?size=128" height="128" width="128" /></a>
 </p>
 
 ## Tester Bot
 * Jika kamu menemukan bug jangan lupa buka Issues
-* Info Lebih Lanjut, Chat [Owner-YukiBot](https://wa.me/6288279268363)
 
 ## How To Change Menu Display
 ----
@@ -112,8 +107,8 @@ let message = await prepareWAMessageMedia({ video: fs.readFileSync('./media/shir
 * Unduh & Instal ImageMagick [`Klik Disini`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/saipulanuar/v20-Md
-cd v20-Md
+git clone https://github.com/koleksibot/BLACKHATBOT-Md
+cd BLACKHATBOT-Md
 npm install
 npm update
 npm index
@@ -129,8 +124,8 @@ pkg install nodejs
 pkg install ffmpeg
 pkg install imagemagick
 pkg install yarn
-git clone https://github.com/saipulanuar/v20-Md
-cd v20-Md
+git clone https://github.com/koleksibot/BLACKHATBOT-Md
+cd BLACKHATBOT-Md
 yarn
 node .
 ```
@@ -158,8 +153,8 @@ Jika berhasil, akan memberikanmu pesan seperti: `SUCCESS: specified value was sa
 ```
 
 # Thanks to
- [![Nurutomo](https://github.com/Nurutomo.png?size=150)](https://github.com/Nurutomo) | [![KingOfBear](https://github.com/saipulanuar.png?size=150)](https://github.com/saipulanuar) | [![Istikmal](https://github.com/BochilGaming.png?size=150)](https://github.com/BochilGaming)
+ [![Nurutomo](https://github.com/Nurutomo.png?size=150)](https://github.com/Nurutomo) | [![Koleksibot](https://github.com/koleksibot.png?size=150)](https://github.com/koleksibot) | [![Istikmal](https://github.com/BochilGaming.png?size=150)](https://github.com/BochilGaming)
 ----|----|----
 [Nurutomo](https://github.com/Nurutomo) | [KingOfBear](https://github.com/saipulanuar) | [Istikmal](https://github.com/BochilGaming)
- Author | yg nambah fitur | yg punya sc
+ Author | yang nambah fitur | yang punya script
 
