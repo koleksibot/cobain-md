@@ -47,8 +47,8 @@ const defaultMenu = {
 ┏━ꕥ
 ┃✾ Uptime: *%uptime (%muptime)*
 ┃✾ Database: %rtotalreg dari %totalreg
-┃✾ Youtube:
-┃✾ https://pastelink.net/v20Md
+┃✾ Github:
+┃✾ https://github.com/koleksibot
 ┗━━━━━━ꕥ
 %readmore`.trimStart(),
   header: '╭─「 %category 」',
@@ -164,7 +164,7 @@ let handler = async (m, { conn, usedPrefix: _p, command }) => {
          hydratedTemplate: {
            hydratedContentText: text.trim(),
            locationMessage: { 
-           jpegThumbnail: await (await fetch(`https://i.ibb.co/jfZVKmC/babi2.jpg`)).buffer() },
+           jpegThumbnail: await (await fetch(`https://i.ibb.co/dB7MLzn/logobot.jpg`)).buffer() },
            hydratedFooterText: wm,
            hydratedButtons: [{
              urlButton: {
@@ -176,7 +176,7 @@ let handler = async (m, { conn, usedPrefix: _p, command }) => {
              {
              callButton: {
                displayText: '𝚙𝚑𝚘𝚗𝚎 𝚗𝚞𝚖𝚋𝚎𝚛',
-               PhoneNumber: '6288279268363'
+               PhoneNumber: '6281515474080'
              }
 
            },
@@ -196,7 +196,7 @@ let handler = async (m, { conn, usedPrefix: _p, command }) => {
            },
                {
              quickReplyButton: {
-               displayText: 'YukiBot 𝚝𝚎𝚊𝚖',
+               displayText: 'Koleksibot 𝚝𝚎𝚊𝚖',
                id: '.tqto',
              }
            }]
