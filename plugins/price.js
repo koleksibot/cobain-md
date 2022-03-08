@@ -7,7 +7,7 @@ let handler = async (m) => {
     else who = m.sender
     let user = global.db.data.users[who]
 let premium = `
-*YUKI BOT PRICE*
+*SEWABOT PRICE HERE*
 
 ◩ *FREE USER*
 └───────
@@ -20,8 +20,8 @@ let premium = `
  └✅ Unlimited Limit 
  └✅ Premium User 
  └❎ Add Bot to Group 
-   └  ▹  *Rp. 5.000*
-     └ Expired 3 hari
+   └  ▹  *Rp. 15.000*
+     └ Expired 1 Minggu
  └ Order | hub : owner
 `
      const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
@@ -34,7 +34,7 @@ let premium = `
            hydratedButtons: [{
              urlButton: {
                displayText: 'DONASI',
-               url: 'https://saweria.co/raraharsita2'
+               url: 'https://saweria.co/anonsecteaminc'
              }
 
            },
