@@ -20,7 +20,7 @@
     "keywords": [
         "termux-whatsapp-bot",
         "whatsapp-bot",
-        "whatsapp",
+        "BlackhatBOT",
         "js-whatsapp",
         "whatsapp",
         "ShiraoriBOT",
@@ -32,10 +32,10 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/saipulanuar/v20-Md.git"
+        "url": "git+https://github.com/koleksibot/cobain-md.git"
     },
     "bugs": {
-        "url": "https://github.com/saipulanuar/v20-Md/issues"
+        "url": "https://github.com/koleksibot/cobain-md/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
